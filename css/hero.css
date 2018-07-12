@@ -1,0 +1,73 @@
+html, body{
+	font-family: Arial, sand-serif;
+	padding: 0px;
+	margin: 0;
+}
+
+header{
+	background-color:  #00001a;
+	padding: 40px;
+	text-align: center;
+
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 24px solid #404040;
+
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;;
+	padding: 0px;
+	margin: 0px;
+}
+
+a{
+	color: grey;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #cccccc
+}
+
+footer ul{
+	text-align: center;
+
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+
+
+}
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Batman</h1>
+		</header>*/
